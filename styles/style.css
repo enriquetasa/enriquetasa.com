@@ -1,0 +1,93 @@
+body {
+  background-color: #f2f2f2;
+
+  font-family: 'Mina', sans-serif;
+  font-size: 20px;
+
+  text-align: justify;
+  text-align-last: center;
+}
+
+p {
+  font-family: 'Source Code Pro', monospace;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+/*LINKS*/
+a:link {
+  font-family: 'Mina', sans-serif;
+  color: #777777;
+  text-decoration: none;
+}
+
+a:visited {
+  font-family: 'Mina', sans-serif;
+  color: #777777;
+  text-decoration: none;
+}
+
+a:hover {
+  font-family: 'Mina', sans-serif;
+  color: #333333;
+  text-decoration: underline;
+}
+
+/*TITLES*/
+h1 {
+  font-size: 6rem;
+    margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 4rem;
+}
+
+h3 {
+  font-size: 3rem;
+}
+
+h4 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+h5 {
+  font-size: 1.5rem;
+}
+
+h6 {
+  font-size: 1.2rem;
+}
+
+/*CLASSES*/
+.copyrightInfo {
+  font-family: 'Source Code Pro', monospace;
+  font-size: 15px;
+  color: #cccccc;
+  opacity: 0.5;
+  text-align: center;
+  width: 100%;
+  bottom: 5px;
+  position: fixed;
+}
+
+.title {
+  margin: 20px, 0;
+}
+
+.subtitle {
+  margin: 20px, 0;
+}
+
+.provisionalEmphasis {
+  opacity: 0.1;
+}
+
+.indexLinks {
+  text-align: center;
+  width: 100%;
+  bottom: 40px;
+  position: fixed;
+}
