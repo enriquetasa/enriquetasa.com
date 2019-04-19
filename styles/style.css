@@ -9,9 +9,7 @@ body {
 }
 
 p {
-  font-family: 'Source Code Pro', monospace;
-  margin-left: 25%;
-  margin-right: 25%;
+  font-family: 'Mina', sans-serif;
 }
 
 a:link {
@@ -33,14 +31,8 @@ a:hover {
   text-decoration: underline;
 }
 
-li {
-  display: inline;
-  margin: 10px;
-}
-
 .navBarLinks {
   text-align: center;
-  position: fixed;
   top: 0px;
   float: none;
   text-align: center;
@@ -50,32 +42,11 @@ li {
 
 .navBar{
   height: 30px;
-  padding-bottom: 10px;
 }
 
-.copyrightInfo {
-  font-family: 'Source Code Pro', monospace;
-  font-size: 10px;
-  color: #cccccc;
-  opacity: 0.6;
-  text-align: center;
-  width: 100%;
-  bottom: 5px;
-  position: fixed;
-}
-
-.slogan {
-  color: #d7d7d7;
-  margin: 0.5%;
-  font-style: italic;
-  font-weight: lighter;
-}
-
-.separatorBar{
-  border-top: 1px solid #000000;
-  opacity: 0.3;
-  width: 400px;
-  padding-left: 100px;
+#navBarList {
+  display: inline;
+  margin: 10px;
 }
 
 .title{
@@ -89,8 +60,44 @@ li {
   text-align: center;
 }
 
-.indexLinks {
+.slogan {
+  color: #d7d7d7;
+  margin: 0.5%;
+  font-style: italic;
+  font-weight: lighter;
+  padding-bottom: 20px;
+}
+
+.separatorBar{
+  border-top: 1px solid #000000;
+  opacity: 0.3;
+  width: 400px;
+  padding-left: 100px;
+}
+
+#about{
+  font-size: 12px;
+  list-style-type: none;
+  margin-left: 25%;
+  margin-right: 25%;
+  width: fit-content;
+}
+
+.aboutText{
+  padding: 0px;
+  text-align: justify;  
+  line-height: 1.2;
+}
+
+.copyrightInfo {
+  font-family: 'Source Code Pro', monospace;
+  font-size: 10px;
+  color: #cccccc;
+  opacity: 0.6;
   text-align: center;
   width: 100%;
-  position: fixed;
+  bottom: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  float: none;
 }
