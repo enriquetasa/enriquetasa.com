@@ -6,7 +6,6 @@ These are the **basic, essential** things that I want to include in my website:
 
 - Links to my stuff online (art insta, youtube channel, github, social media)
 - Contact information (email address)
-- A blog
 - About me (maybe combine with short, bullet point version)
 
 That's all for the basics, that's the stuff I want to have **uploaded and running** by Monday.
