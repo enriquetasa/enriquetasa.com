@@ -4,7 +4,6 @@ The website will need to be completed by the end of the weekend. All of it.
 
 These are the **basic, essential** things that I want to include in my website:
 
-- A resumé (short bullet-point version + a link to a full pdf)
 - Links to my stuff online (art insta, youtube channel, github, social media)
 - Contact information (email address)
 - A blog
