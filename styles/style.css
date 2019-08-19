@@ -61,7 +61,7 @@ a:hover {
   margin: 0.5%;
   font-style: italic;
   font-weight: lighter;
-  padding-bottom: 50px;
+  padding-bottom: 20px;
 }
 
 .separatorBar{
@@ -72,7 +72,15 @@ a:hover {
 }
 
 .pageTextBox{
-  font-size: 16px;
+  font-size: 13px;
+  list-style-type: none;
+  margin: auto;
+  width: 800px;
+  height: fit-content;
+}
+
+.pageTextBoxSmall{
+  font-size: 13px;
   list-style-type: none;
   margin: auto;
   width: 800px;
@@ -90,7 +98,7 @@ a:hover {
   color: #999999;
   margin: 0.5%;
   font-weight: lighter;
-  padding-bottom: 80px;
+  padding-bottom: 60px;
   font-size: 16px;
 }
 
@@ -114,8 +122,8 @@ a:hover {
 .portfolioText{
   color: #3f3f3f;
   margin: 0.5%;
-  padding-bottom: 35px;
-  font-size: 16px;
+  padding-bottom: 10px;
+  font-size: 13px;
 }
 
 .copyrightInfo {
